@@ -26,7 +26,7 @@
                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <color key="barTintColor" red="0.77845415609137059" green="0.38049774601306174" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <items>
-                                    <navigationItem title="Title" id="iZI-65-yEM">
+                                    <navigationItem title="Timer" id="iZI-65-yEM">
                                         <barButtonItem key="leftBarButtonItem" title="Item" image="baseline_replay_10_black_18dp" id="Ris-qr-gez">
                                             <connections>
                                                 <action selector="tenSecBackward:" destination="BYZ-38-t0r" id="fII-U6-Efb"/>
